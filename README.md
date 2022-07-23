@@ -47,7 +47,7 @@ tensorflow在深度学习框架中基本上还是一种老大哥的地位的存�
 
 那么不妨大胆一点，两个都要！哈哈，这不是谈恋爱，没人会说你是渣男，但是也和谈恋爱差不多，都需要用心的去了解学习里边的细节。
 
-<img src="C:\Users\boris\Desktop\pytorch-tensorflow-Comparative-study\梗图\全都要.png" alt="image-20220723153653735" style="zoom: 25%;" />
+<img src=".\梗图\全都要.png" alt="image-20220723153653735" style="zoom: 25%;" />
 
 这就是项目的题目pytorch-tensorflow-Comparative study，pytorch和tensorflow对比学习笔记。
 
